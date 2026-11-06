@@ -1,4 +1,6 @@
 ﻿# 손목터널증후군
+ 
+<img width="1026" height="791" alt="Ddang_G" src="https://github.com/user-attachments/assets/e6a0e5fa-68b0-4f4e-8a17-2e5b2407db69" />
 
 기본적인 박자 연습을 위한 메트로놈입니다.
 
